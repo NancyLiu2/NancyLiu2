@@ -1,2 +1,2 @@
 #中东行
-[行程图链接](https://github.com/NancyLiu2/Tour-to-Middle-East.git)
+[行程图链接](https://Tour-to-Middle-East.github.com)
